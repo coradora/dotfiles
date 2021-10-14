@@ -1,0 +1,5 @@
+picom &
+tint2 &
+dunst &
+feh --bg-scale /home/cora/Pictures/wallpaper.jpg &
+
